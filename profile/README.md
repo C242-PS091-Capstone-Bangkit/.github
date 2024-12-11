@@ -40,8 +40,8 @@
 
 ## 👥 Team Members  
 
-| ID    | Name                    | Role                | GitHub                                     |
-|-------|-------------------------|---------------------|--------------------------------------------|
+| Bangkit ID    | Name                    | Role                | GitHub                                     |
+|---------------|-------------------------|---------------------|--------------------------------------------|
 | A014B4KY1827  | Candra Wijaya         | Mobile Development  | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/CandraWijaya12345) |
 | A014B4KY1862  | Prajna Dharma         | Mobile Development  | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/Prajnadharma)       |
 | M014B4KX3331  | Gita Sri Adnyani      | Machine Learning    | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/gitasriadnyani)     |
