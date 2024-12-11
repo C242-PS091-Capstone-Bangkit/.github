@@ -40,6 +40,17 @@
 
 ## 👥 Team Members  
 
+| ID    | Name                    | Role                | GitHub                                     |
+|-------|-------------------------|---------------------|--------------------------------------------|
+| A014B4KY1827  | [Candra Wijaya]         | Mobile Development  | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/CandraWijaya12345) |
+| A014B4KY1862  | [Prajna Dharma]         | Mobile Development  | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/Prajnadharma)       |
+| M014B4KX3331  | [Gita Sri Adnyani]      | Machine Learning    | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/gitasriadnyani)     |
+| M014B4KX3535  | [Indri Cahyani]         | Machine Learning    | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/indrichyni)         |
+| M014B4KX2293  | [Christina Ayuni]       | Machine Learning    | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/chrisayuni)         |
+| C014B4KY1829  | [Sindhu Wedana]         | Cloud Computing     | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/Wahsindhu)          |
+| C014B4KY1808  | [Ardhiyana Permana]     | Cloud Computing     | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/ardhi024)           |
+
+
 | Name                    | Role                | GitHub                                     |
 | ----------------------- | ------------------- | ------------------------------------------ |
 | [Candra Wijaya]             | Mobile Development  | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/CandraWijaya12345) |
@@ -58,7 +69,7 @@
   Repository for Android front-end, UI/UX design, and integration.
 
 - **[Machine Learning Models](https://github.com/C242-PS091-Capstone-Bangkit/ML-Project)**  
-  Repository for TensorFlow Lite-based AI skin analysis models.
+  Repository for TensorFlow based AI skin analysis models.
 
 - **[Backend and APIs](https://github.com/C242-PS091-Capstone-Bangkit/backend)**  
   Repository for APIs and backend services powering Skinalyze.
