@@ -4,13 +4,13 @@
 ---
 
 ## 🎯 About Skinalyze  
-**Skinalyze** is a mobile application designed to help users analyze their skin conditions using AI-powered camera technology and receive personalized skincare recommendations. With additional features like reminders and a history log, Skinalyze is your all-in-one solution for effective skincare management.
+**Skinalyze** is a mobile application designed to help users analyze their skin type and conditions using AI-powered camera technology and receive personalized skincare recommendations. With additional features like reminders and a history log, Skinalyze is your all-in-one solution for effective skincare management.
 
 ---
 
 ## 🚀 Key Features  
 1. **AI-Powered Skin Analysis**  
-   - Capture and analyze skin conditions using advanced image recognition.  
+   - Capture and analyze skin type (Dry, Normal, or Oily) and skin conditions (Acne, Dark Spot, Large Pores, Normal, Wrinkles) using advanced image recognition.  
    - Receive detailed insights into skin types and issues.  
 
 2. **Personalized Skincare Recommendations**  
@@ -26,13 +26,13 @@
 
 ## 🛠️ Tech Stack  
 - **Frontend:** Kotlin (Android)  
-- **Machine Learning:** TensorFlow Lite (Skin Analysis Model)  
+- **Machine Learning:** TensorFlow (Skin Analysis Model)  
 - **APIs:** Custom APIs for product recommendations and user data management  
 
 ---
 
 ## 🎯 Why Choose Skinalyze?  
-- **Accurate and Personalized:** Leverages AI for precise skin condition analysis.  
+- **Accurate and Personalized:** Leverages AI for precise skin type and condition analysis.  
 - **User-Friendly:** Simple, intuitive interface for seamless use.  
 - **Comprehensive Features:** Goes beyond analysis with reminders and history tracking.
 
